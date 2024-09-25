@@ -1,4 +1,5 @@
-#boycutt
+#Boycutt
+
 This project and its simple interfaces work on recognizing images based on the model that the trainer gives Using Yolo algorithm version 8 
 
 ## introduction
